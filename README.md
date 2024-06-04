@@ -1,4 +1,5 @@
 <h2 align="left">Olá, me chamo Manuelli! :)</h2>
+<p>Designer e Estudante de Programação.</p>
 
 ###
 
